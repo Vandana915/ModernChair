@@ -3,7 +3,10 @@
 This is a single page Modern Chair build by using HTML and CSS
 
 ## Screenshot
-![Modern Chair](https://github.com/Vandana915/ModernChair/assets/124566666/ca523cf8-d124-43f7-9e11-dea04ac20868)
+
+
+https://github.com/Vandana915/ModernChair/assets/124566666/7caf5e81-1ee1-41db-9287-ef9e8deb55ff
+
 
 ## Demo
 You can explore the live demo of the ModernChair [Here]().
