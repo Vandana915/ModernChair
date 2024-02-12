@@ -9,7 +9,7 @@ https://github.com/Vandana915/ModernChair/assets/124566666/7caf5e81-1ee1-41db-92
 
 
 ## Demo
-You can explore the live demo of the ModernChair [Here]().
+You can explore the live demo of the ModernChair [Here]( https://vandana915.github.io/ModernChair/).
 
 
 ##  Built with
