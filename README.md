@@ -1,6 +1,6 @@
 
 # Modern Chair
-This is a single page Modern Chair build by using HTML and CSS
+This is a single page Modern Chair build by using HTML and CSS. This interactive project allows users to explore various color themes for the chair, witnessing real-time transformations in the entire user interface in response to their selections.
 
 ## Screenshot
 
